@@ -1,5 +1,4 @@
 # Data-dictionary
-## uber-eats-deliveries.csv
 
 |Column|Description |
 | :------------ |:---------------:|
